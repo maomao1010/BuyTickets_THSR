@@ -1,0 +1,7 @@
+selenium
+anticaptchaofficial
+Pillow
+argparse
+DateTime
+regex
+pyinstaller
