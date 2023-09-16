@@ -1,4 +1,4 @@
-# Pisces
+# BuyTickets_THSR
 This project can be used to buy THSR tickets automatically. Please use this program carefully because it may be treat as unlegal behavior.
 
 ## Getting started
